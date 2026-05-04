@@ -173,4 +173,14 @@ https://sllpr.tronicgen.com
 
 ## Acknowledgment
 
-We thank the Department of Electronic and Telecommunication Engineering, University of Moratuwa, for supporting this work.
+We are grateful to the following parties who helped make this project successful.
+
+Dr. Sampath Perera and Eng. Kithsiri Samarasinghe actively supervised the project and provided guidance. Dr. Ajith Pasqual connected us with this project and important resource personnel. The staff of PEX Microsystems informed us of industry standards, provided professional opinions, and assisted with development board selection. PEX Microsystems also provided funding for the development boards.
+
+Prof. Saman Bandara, Member of the National Council for Road Safety (NCRS), helped to submit a proposal to the NCRS.
+
+Dr. Ranga Rodrigo and the National Research Council of Sri Lanka (NRC, Grant No. 19-080) provided us with the computational resources needed for training the machine learning models.
+
+Further, we are grateful to the Sri Lanka Police and the Road Development Authority (RDA) for giving us permission to test our product on normal roads and the Southern Expressway.
+
+We truly appreciate their combined expertise, mentorship, and support throughout this project.
