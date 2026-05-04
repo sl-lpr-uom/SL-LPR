@@ -84,7 +84,7 @@ Example images include:
 
 Here are some examples from the dataset:
 
-![Sample Images](image.png)
+![Sample Images](image.jpg)
 
 ---
 
@@ -102,6 +102,7 @@ You can request access via **email or website**.
 
 ### 📧 Email Request (Copy-Paste Format)
 
+```text
 Subject: Request for SL-LPR Dataset Access
 
 Dear Sir/Madam,
@@ -117,13 +118,14 @@ Postal Address:
 Phone Number:
 Purpose of Use:
 
-I have read and agreed to follow the restrictions specified for the SL-LPR dataset. 
-This dataset will only be used for research purposes. 
+I have read and agreed to follow the restrictions specified for the SL-LPR dataset.
+This dataset will only be used for research purposes.
 I will not redistribute, share, or use it for commercial purposes.
 
 Thank you for your time and consideration.
 
 Signature:
+```
 
 
 📧 Send to: **manimohan517@gmail.com**
