@@ -3,7 +3,8 @@
 By **Anuki Pasqual**, **Manimohan Thiriloganathan**, **Dulan Lokugeegana**, **Nuthya Rathnayake**  
 Department of Electronic and Telecommunication Engineering  
 University of Moratuwa, Sri Lanka  
-{pasqualac.20, manimohant.20, lokugeeganadl.20, rathnayakernp.20}@uom.lk  
+
+Supervised by **Dr. Sampath Perera** and **Eng. Kithsiri Samarasinghe**  
 
 ---
 
@@ -128,7 +129,7 @@ Signature:
 ```
 
 
-📧 Send to: **manimohan517@gmail.com**
+📧 Send to: **manimohant.20@uom.lk**
 
 > ⚠️ Note:
 > - Prefer using a university/institution email  
@@ -167,7 +168,7 @@ https://sllpr.tronicgen.com
 
 ## Contact
 
-📧 Dataset Administrator: **manimohan517@gmail.com**
+📧 Dataset Administrator: **manimohant.20@uom.lk**
 
 ---
 
